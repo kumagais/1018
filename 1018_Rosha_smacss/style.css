@@ -161,8 +161,8 @@ img {
     border: 1px solid #6C6C6F;
 }
 
-.card-grow {
-    flex-grow: 1;
+.card-flex {
+    align-items: stretch;
 }
 
 /* btn */
